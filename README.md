@@ -1,4 +1,6 @@
 ### What's up 😄
+I need ur help!
+{let's code togheter}
 
 <!--
 **jofsan/jofsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
